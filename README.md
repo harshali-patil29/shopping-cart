@@ -9,6 +9,10 @@ The shopping cart project is a simple web application built with HTML, CSS, and 
 - View the total price dynamically calculated as you interact with the cart.
 - Even if you revisit the site later, cart remains unchanged.
 
+## Live demo
+
+https://harshali-patil29.github.io/shopping-cart/
+
 ## Credits
 
 This project was created as part of a learning exercise.
