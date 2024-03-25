@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Comfy Dreamer",
+        "price": 200,
+        "image": "images/sofa1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Elegant Haven",
+        "price": 200,
+        "image": "images/sofa2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Cozy Retreat",
+        "price": 200,
+        "image": "images/sofa3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Plush Comfort",
+        "price": 200,
+        "image": "images/sofa4.webp"
+    },
+    {
+        "id": 5,
+        "name": "Chic Lounger",
+        "price": 200,
+        "image": "images/sofa5.webp"
+    },
+    {
+        "id": 6,
+        "name": "Modern Relaxer",
+        "price": 200,
+        "image": "images/sofa6.webp"
+    },
+    {
+        "id": 7,
+        "name": "Luxury Nest",
+        "price": 200,
+        "image": "images/sofa7.webp"
+    },
+    {
+        "id": 8,
+        "name": "Vintage Elegance",
+        "price": 200,
+        "image": "images/sofa8.webp"
+    }
+]
